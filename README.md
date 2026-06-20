@@ -1,2 +1,2 @@
 # test1
-testtest
+internalsecret=s3p3r$exret
